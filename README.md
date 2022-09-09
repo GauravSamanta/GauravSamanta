@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ![alt text](https://img.shields.io/badge/VSCode-/?logo=visual%20studio%20code&logoColor=white&color=007ACC)
 ![alt text](https://img.shields.io/badge/Canva-/?logo=Canva&logoColor=white&color=00C4CC)
 ![alt text](https://img.shields.io/badge/Prettier-/?logo=prettier&logoColor=white&color=F7B93E)
-![alt text](https://img.shields.io/badge/Canva-/?logo=Canva&logoColor=white&color=00C4CC)
+
 
