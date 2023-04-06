@@ -12,10 +12,10 @@ I possess a strong foundation in C++ programming and problem-solving, as well as
 Here are a few notable projects I've worked on:
 
 ### 1. SkyGliders
-SkyGliders is a mobile game that I developed and uploaded on the Play Store. It's a fun and addictive game that challenges players to fly a plane through various obstacles. You can download it [here](https://play.google.com/store/apps/details?id=com.Teknack.SkyGliders&hl=en_US&gl=US).
+SkyGliders is a mobile game that I developed and uploaded on the Play Store. It's a fun and addictive game that challenges players to fly a Glider through various obstacles. You can download it [here](https://play.google.com/store/apps/details?id=com.Teknack.SkyGliders&hl=en_US&gl=US).
 
 ### 2. The Lone Bot
-The Lone Bot is another game that I developed and uploaded on the Play Store. It's a side-scrolling adventure game where the player navigates through obstacles and enemies. You can download it [here](https://play.google.com/store/search?q=The%20Lone%20Bot&c=apps&hl=en_US&gl=US).
+The Lone Bot is another game that I developed and uploaded on the Play Store. It's a 3D game where bot is stranded on a desolate planet, tasked with collecting scrap and restoring the once-thriving world to its former glory. You can download it [here](https://play.google.com/store/search?q=The%20Lone%20Bot&c=apps&hl=en_US&gl=US).
 
 ## Message
 Through my projects and skills, I hope to inspire other developers to push the limits of what's possible and create innovative solutions to real-world problems.
