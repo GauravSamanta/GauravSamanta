@@ -1,38 +1,24 @@
-## Hi there 👋  I am Gaurav
+# Hi there 👋  I am Gaurav
 
-<!--
-**GauravSamanta/GauravSamanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Welcome to my GitHub profile! I am a computer engineering student at Don Bosco Institute of Technology with a passion for problem-solving, gaming, and AI/ML. I'm excited to share with you some of the projects I've worked on.
 
-Here are some ideas to get you started:
+## Interests
+Apart from coding, I'm an avid gamer and love playing games in my free time. I'm also interested in AI/ML and am always exploring ways to incorporate them into my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+I possess a strong foundation in C++ programming and problem-solving, as well as experience in Python programming. Additionally, I have experience in game development and am constantly learning new techniques to enhance my skills.
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSamanta&langs_count=8)](https://github.com/GauravSamanta/github-readme-stats)-->
+## Projects
+Here are a few notable projects I've worked on:
 
-### What I use <br>
+### 1. SkyGliders
+SkyGliders is a mobile game that I developed and uploaded on the Play Store. It's a fun and addictive game that challenges players to fly a plane through various obstacles. You can download it [here](https://play.google.com/store/apps/details?id=com.Teknack.SkyGliders&hl=en_US&gl=US).
 
-![alt text](https://img.shields.io/badge/HTML5-/?logo=html5&logoColor=white&color=E34F26)
-![alt text](https://img.shields.io/badge/CSS3-/?logo=CSS&logoColor=white&color=1572B6)
-![alt text](https://img.shields.io/badge/BootStrap-/?logo=bootstrap&logoColor=white&color=7952B3)
-![alt text](https://img.shields.io/badge/JavaScript-/?logo=javascript&logoColor=black&color=F7DF1E)
-![alt text](https://img.shields.io/badge/C-/?logo=c&logoColor=white&color=A8B9CC)
-![alt text](https://img.shields.io/badge/C++-/?logo=c%2B%2B&logoColor=white&color=00599C)
-![alt text](https://img.shields.io/badge/MySQL-/?logo=mysql&logoColor=white&color=4479A1)
-![alt text](https://img.shields.io/badge/Python-/?logo=python&logoColor=white&color=3776AB)
-![alt text](https://img.shields.io/badge/Django-/?logo=django&logoColor=white&color=092E20)
-![alt text](https://img.shields.io/badge/UNITY-/?logo=unity&logoColor=black&color=FFFFFF)
-![alt text](https://img.shields.io/badge/Git-/?logo=git&logoColor=white&color=F05032)
-![alt text](https://img.shields.io/badge/GitHub-/?logo=github&logoColor=white&color=181717)
-![alt text](https://img.shields.io/badge/VSCode-/?logo=visual%20studio%20code&logoColor=white&color=007ACC)
-![alt text](https://img.shields.io/badge/Canva-/?logo=Canva&logoColor=white&color=00C4CC)
-![alt text](https://img.shields.io/badge/Prettier-/?logo=prettier&logoColor=white&color=F7B93E)
+### 2. The Lone Bot
+The Lone Bot is another game that I developed and uploaded on the Play Store. It's a side-scrolling adventure game where the player navigates through obstacles and enemies. You can download it [here](https://play.google.com/store/search?q=The%20Lone%20Bot&c=apps&hl=en_US&gl=US).
 
+## Message
+Through my projects and skills, I hope to inspire other developers to push the limits of what's possible and create innovative solutions to real-world problems.
 
+Thanks for stopping by!
