@@ -1,6 +1,5 @@
 # Hi there 👋  I am Gaurav
 
-## Introduction
 Welcome to my GitHub profile! I am a computer engineering student at Don Bosco Institute of Technology with a passion for problem-solving, gaming, and AI/ML. I'm excited to share with you some of the projects I've worked on.
 
 ## Interests
