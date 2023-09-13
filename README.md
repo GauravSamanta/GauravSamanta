@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a computer engineering student at Don Bosco I
 Apart from coding, I'm an avid gamer and love playing games in my free time. I'm also interested in AI/ML and am always exploring ways to incorporate them into my projects.
 
 ## Skills
-I possess a strong foundation in C++ programming and problem-solving, as well as experience in Python programming. Additionally, I have experience in game development and am constantly learning new techniques to enhance my skills.
+I possess a strong foundation in C++ programming and problem-solving, as well as experience in Python programming. Additionally, I have experience in game development and and web development.
 
 ## Projects
 Here are a few notable projects I've worked on:
