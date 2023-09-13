@@ -1,6 +1,6 @@
 # Hi there 👋  I am Gaurav
 
-Welcome to my GitHub profile! I am a computer engineering student at Don Bosco Institute of Technology with a passion for problem-solving, gaming, and AI/ML. I'm excited to share with you some of the projects I've worked on.
+Welcome to my GitHub profile! I am a computer engineering student at Don Bosco Institute of Technology with a passion for problem-solving , web development and game development. I'm excited to share with you some of the projects I've worked on.
 
 ## Interests
 Apart from coding, I'm an avid gamer and love playing games in my free time. I'm also interested in AI/ML and am always exploring ways to incorporate them into my projects.
