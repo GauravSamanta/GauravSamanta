@@ -1,23 +1,27 @@
-# Hi there 👋  I am Gaurav
+# 💫 About Me:
+🔭 I’m currently working on:<br>I'm currently working on a project focused on wheat crop yield prediction using remote sensing and hyperlocal dynamic machine learning.<br><br>🌱 I’m currently learning:<br>I am currently learning Typescript and backend development.<br><br>💬 Ask me about:<br>Feel free to ask me about machine learning techniques  as well as any questions related to web development, especially if it involves backend technologies.
 
-Welcome to my GitHub profile! I am a computer engineering student at Don Bosco Institute of Technology with a passion for problem-solving , web development and game development. I'm excited to share with you some of the projects I've worked on.
 
-## Interests
-Apart from coding, I'm an avid gamer and love playing games in my free time. I'm also interested in AI/ML and am always exploring ways to incorporate them into my projects.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsamanta) 
 
-## Skills
-I possess a strong foundation in C++ programming and problem-solving, as well as experience in Python programming. Additionally, I have experience in game development and and web development.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GauravSamanta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GauravSamanta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSamanta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Projects
-Here are a few notable projects I've worked on:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GauravSamanta&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 1. SkyGliders
-SkyGliders is a mobile game that I developed and uploaded on the Play Store. It's a fun and addictive game that challenges players to fly a Glider through various obstacles. You can download it [here](https://play.google.com/store/apps/details?id=com.Teknack.SkyGliders&hl=en_US&gl=US).
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 2. The Lone Bot
-The Lone Bot is another game that I developed and uploaded on the Play Store. It's a 3D game where bot is stranded on a desolate planet, tasked with collecting scrap and restoring the once-thriving world to its former glory. You can download it [here](https://play.google.com/store/search?q=The%20Lone%20Bot&c=apps&hl=en_US&gl=US).
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## Message
-Through my projects and skills, I hope to inspire other developers to push the limits of what's possible and create innovative solutions to real-world problems.
+---
+[![](https://visitcount.itsvg.in/api?id=GauravSamanta&icon=9&color=12)](https://visitcount.itsvg.in)
 
-Thanks for stopping by!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
