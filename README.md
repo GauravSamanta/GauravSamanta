@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>I'm currently working on a project focused on wheat crop yield prediction using remote sensing and hyperlocal dynamic machine learning.<br><br>🌱 I’m currently learning:<br>I am currently learning Typescript and backend development.<br><br>💬 Ask me about:<br>Feel free to ask me about machine learning techniques  as well as any questions related to web development, especially if it involves backend technologies.
+🔭 I’m currently working on a project focused on wheat crop yield prediction using remote sensing and hyperlocal dynamic machine learning.<br><br>🌱 I’m currently learning Typescript and backend development.<br><br>💬 Ask me about machine learning techniques  as well as any questions related to web development, especially if it involves backend technologies.
 
 
 ## 🌐 Socials:
